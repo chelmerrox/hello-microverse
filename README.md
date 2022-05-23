@@ -10,9 +10,9 @@
 - CSS3
 - Git
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://raw.githack.com/chelmerrox/hello-microverse/hello-microverse/index.html)
 
 
 ## Getting Started
